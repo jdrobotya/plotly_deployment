@@ -108,7 +108,7 @@ function buildCharts(sample) {
        marker: {
          size: bubbleValues,
          color: bubbleValues,
-         colorscale: "Earth" 
+         colorscale: "Electric" 
        }
     }];
    
