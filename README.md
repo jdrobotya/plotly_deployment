@@ -12,7 +12,9 @@ Each volunteer has assigned ID number with basic demographic information.
 
 The bubble chart reflects the Bacteria cultures per sample, based on otu_Ids data and sample_values
 
-![Screen Shot 2022-07-24 at 7 33 14 PM](https://user-images.githubusercontent.com/103322251/180670359-3cbc62e4-90e3-47e4-8f9e-a9cb957b3d99.png)
-
+![Screen Shot 2022-07-24 at 7 34 22 PM](https://user-images.githubusercontent.com/103322251/180670411-758e0ce1-3bba-428a-ab39-61a3aa7f14f0.png)
 
 The gauge chart  displays the weekly washing frequency's value, and displays the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
+
+![Screen Shot 2022-07-24 at 7 34 30 PM](https://user-images.githubusercontent.com/103322251/180670422-a07115b4-7572-48af-a504-0d9938252427.png)
+
